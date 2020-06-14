@@ -16,6 +16,6 @@ VEGA IS A PROTOCOL FOR CREATING AND TRADING DERIVATIVES ON A FULLY DECENTRALISED
 
 - [Join our Community Forum](https://community.vega.xyz)
 
-- Follow us online: [Twitter](https://twitter.com/vegaprotocol) [LinkedIn](https://www.linkedin.com/company/vega-protocol) [Medium](https://medium.com/vegaprotocol) [Angelist](https://angel.co/company/vega-protocol)
+- Follow us online: [Twitter](https://twitter.com/vegaprotocol) [LinkedIn](https://www.linkedin.com/company/vega-protocol) [Medium](https://medium.com/vegaprotocol) [AngelList](https://angel.co/company/vega-protocol)
 
 - [Our website](https://vega.xyz)
