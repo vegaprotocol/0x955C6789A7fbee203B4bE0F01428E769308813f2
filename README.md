@@ -8,6 +8,8 @@ VEGA IS A PROTOCOL FOR CREATING AND TRADING DERIVATIVES ON A FULLY DECENTRALISED
 
 - [Vega Documentation](https://docs.testnet.vega.xyz)
 
+- [Vega API Samples](https://github.com/vegaprotocol/sample-api-scripts/tree/v0.19.0/)
+
 - [Vega Gitcoin organisation](https://gitcoin.co/vegaprotocol)
 
 - [Vega Discord chat](https://discord.gg/bkAF3Tu)
